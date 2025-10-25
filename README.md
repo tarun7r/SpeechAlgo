@@ -18,8 +18,9 @@ SpeechAlgo provides reference implementations of 20 core speech processing algor
 
 ## Installation
 
-### From PyPI (when published)
+### From PyPI
 
+**PyPI**: [SpeechAlgo](https://pypi.org/project/speechalgo/)
 ```bash
 pip install speechalgo
 ```
